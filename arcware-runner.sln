@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arcware-runner", "arcware-runner\arcware-runner.csproj", "{09FCAAF8-3E01-4848-9C24-B4350697FEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arcware-runner-tests", "arcware-runner-tests\arcware-runner-tests.csproj", "{1430D7DE-E9AF-4E6A-9817-9537491BFEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arcware-runner-console", "arcware-runner-console\arcware-runner-console.csproj", "{7A084DAF-87E4-4E47-9D48-9D7ABC602EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09FCAAF8-3E01-4848-9C24-B4350697FEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FCAAF8-3E01-4848-9C24-B4350697FEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FCAAF8-3E01-4848-9C24-B4350697FEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FCAAF8-3E01-4848-9C24-B4350697FEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1430D7DE-E9AF-4E6A-9817-9537491BFEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1430D7DE-E9AF-4E6A-9817-9537491BFEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1430D7DE-E9AF-4E6A-9817-9537491BFEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1430D7DE-E9AF-4E6A-9817-9537491BFEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A084DAF-87E4-4E47-9D48-9D7ABC602EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A084DAF-87E4-4E47-9D48-9D7ABC602EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A084DAF-87E4-4E47-9D48-9D7ABC602EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A084DAF-87E4-4E47-9D48-9D7ABC602EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
